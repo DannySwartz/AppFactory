@@ -4,15 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AppFactoryConsole
+namespace AppFactoryBL
 {
-    class Program
+    public abstract class ConveyorBeltBase
     {
-        static void Main(string[] args)
-        {
 
-
-        }
     }
-} 
-  
+}
