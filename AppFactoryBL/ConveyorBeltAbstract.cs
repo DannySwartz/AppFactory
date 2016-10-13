@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace AppFactoryBL
 {
-    public class ConveyorBeltBase
+    public abstract class ConveyorBeltAbstract
     {
-
 
     }
 }

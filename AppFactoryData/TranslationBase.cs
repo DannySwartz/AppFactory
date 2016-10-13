@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AppFactoryBL
+namespace AppFactoryData
 {
-    public abstract class StepBase
+    public class TranslationBase
     {
 
     }
